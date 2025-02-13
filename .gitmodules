@@ -1,0 +1,3 @@
+[submodule "backend/web-apka"]
+	path = backend/web-apka
+	url = https://github.com/poklonovaSofia/Activity-Application.git

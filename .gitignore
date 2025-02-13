@@ -1,0 +1,14 @@
+# Системні файли
+.DS_Store
+.env
+
+# Файли IDE
+.idea/
+*.iml
+
+# Node.js файли
+node_modules/
+
+# Docker-файли
+docker-compose.yaml
+dockerfile.test
